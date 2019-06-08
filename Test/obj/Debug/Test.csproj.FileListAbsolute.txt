@@ -1,0 +1,14 @@
+H:\Уч.Приктика\Tenno\Test\bin\Debug\Test.exe.config
+H:\Уч.Приктика\Tenno\Test\bin\Debug\Test.exe
+H:\Уч.Приктика\Tenno\Test\bin\Debug\Test.pdb
+H:\Уч.Приктика\Tenno\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+H:\Уч.Приктика\Tenno\Test\obj\Debug\MainWindow.g.cs
+H:\Уч.Приктика\Tenno\Test\obj\Debug\App.g.cs
+H:\Уч.Приктика\Tenno\Test\obj\Debug\Test_MarkupCompile.cache
+H:\Уч.Приктика\Tenno\Test\obj\Debug\Test_MarkupCompile.lref
+H:\Уч.Приктика\Tenno\Test\obj\Debug\MainWindow.baml
+H:\Уч.Приктика\Tenno\Test\obj\Debug\Test.g.resources
+H:\Уч.Приктика\Tenno\Test\obj\Debug\Test.Properties.Resources.resources
+H:\Уч.Приктика\Tenno\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+H:\Уч.Приктика\Tenno\Test\obj\Debug\Test.exe
+H:\Уч.Приктика\Tenno\Test\obj\Debug\Test.pdb

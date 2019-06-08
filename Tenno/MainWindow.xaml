@@ -1,0 +1,83 @@
+﻿<Window x:Class="Tenno.MainWindow" x:Name="MainWindows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tenno"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Tenno" Height="525" Width="787" Closing="Window_Closing" Closed="MainWindows_Closed"  MouseDown="MainWindows_MouseDown" MouseUp="MainWindows_MouseUp" MouseDoubleClick="MainWindows_MouseDoubleClick">
+    <Window.Background>
+        <ImageBrush ImageSource="Images/Fon.png" Stretch="UniformToFill"/>
+    </Window.Background>
+    
+    <Grid x:Name="MuGrid" Loaded="MuGrid_Loaded" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.33*" />
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="0.33*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition  Width="0.5*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <!--карты игрока-->
+        <Image x:Name="FourHand"   Grid.Column="2" Grid.Row="6"  Source="Images/Four.png"   />
+        <Image x:Name="FiveHand" Grid.Column="3" Grid.Row="6"  Source="Images/Five.png"  />
+        <Image x:Name="SixHand" Grid.Column="4" Grid.Row="6"  Source="Images/Six.png"  />
+        <Image x:Name="SevenHand" Grid.Column="5" Grid.Row="6"  Source="Images/Seven.png" />
+        <Image x:Name="EightHand" Grid.Column="6" Grid.Row="6"  Source="Images/Eight.png"  />
+        <Image x:Name="NineHand" Grid.Column="7" Grid.Row="6"  Source="Images/Nine.png"  />
+        <Image x:Name="TenHand" Grid.Column="8" Grid.Row="6"  Source="Images/Ten.png"  />
+        <Image  x:Name="ElevHand" Grid.Column="9" Grid.Row="6"  Source="Images/Eleven.png"  />
+        
+        <Image  x:Name="OneHand" Grid.Column="3" Grid.Row="4"  Source="Images/One.png"/>
+        <Image  x:Name="TwoHand"  Grid.Column="5" Grid.Row="4"  Source="Images/Two.png" />
+        <Image  x:Name="ThreeHand"  Grid.Column="7" Grid.Row="4"  Source="Images/Three.png"  />
+        
+        <!--карты соперника--> 
+        <Image  x:Name="FourComp"  Grid.Column="2" Grid.Row="0"  Source="Images\TheyBack.png" />
+        <Image   x:Name="FiveComp" Grid.Column="3" Grid.Row="0"  Source="Images\TheyBack.png"  />    
+        <Image   x:Name="SixComp" Grid.Column="4" Grid.Row="0"  Source="Images\TheyBack.png"  />
+        <Image  x:Name="SevenComp" Grid.Column="5" Grid.Row="0"  Source="Images\TheyBack.png" />
+        <Image  x:Name="EightComp" Grid.Column="6" Grid.Row="0"  Source="Images\TheyBack.png"  />
+        <Image  x:Name="NineComp" Grid.Column="7" Grid.Row="0"  Source="Images\TheyBack.png"  />
+        <Image  x:Name="TenComp" Grid.Column="8" Grid.Row="0"  Source="Images\TheyBack.png"  />
+        <Image  x:Name="ElevenComp" Grid.Column="9" Grid.Row="0"  Source="Images\TheyBack.png" />
+
+        <Image x:Name="OneComp" Grid.Column="3" Grid.Row="2"  Source="Images\TheyBack.png  " 
+               MouseLeftButtonDown="OneComp_MouseLeftButtonDown"  />
+        <Image  x:Name="TwoComp" Grid.Column="5" Grid.Row="2"  Source="Images\TheyBack.png" 
+                MouseLeftButtonDown="TwoComp_MouseLeftButtonDown"/>
+        <Image   x:Name="ThreeComp" Grid.Column="7" Grid.Row="2"  Source="Images\TheyBack.png" 
+                 MouseLeftButtonDown="ThreeComp_MouseLeftButtonDown"/>
+
+
+        <TextBox x:Name="PlayerTB" Grid.Column="11" Grid.Row="3"  IsEnabled="False"
+                     Background="Pink" Foreground="Black" Text="0" FontSize="36" FontFamily="OCR A Std"  />
+        <TextBox x:Name="CompTB" Grid.Column="0" Grid.Row="3"  IsEnabled="False"
+                     Background="Pink" Foreground="Black" Text="0" FontSize="36" TextOptions.TextHintingMode="Fixed" FontFamily="OCR A Std"  />
+
+
+        <Button x:Name="StartButton" Grid.Column="4" Grid.Row="3" Grid.ColumnSpan="3"
+                Content="В бой!" FontSize="38" FontFamily="Minion Pro" 
+               MouseDown="StartButton_MouseDown" ToolTip="Рассавьте карты в авнгарде и начните сражение нажав кнопку правой клавишей мыши"
+                Background="#FFFFE4DC" Foreground="#FF7C3B3B" BorderBrush="#FFFFE3E3" />
+    </Grid>
+</Window>
