@@ -1,0 +1,24 @@
+﻿<Window x:Class="Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas Name="DragArena" >
+        <Ellipse
+        Width="50" Height="50" Fill="#68829E"
+        Canvas.Left="80" Canvas.Top="120"
+        MouseLeftButtonDown="StartDrag"/>
+        <Path
+        Width="50" Height="50" Data="M0,0 L1,1 L-1,1 z" Stretch="Fill" Fill="#AEBD38"
+        Canvas.Left="200" Canvas.Top="60"
+        MouseLeftButtonDown="StartDrag"/>
+        <Rectangle
+        Width="50" Height="50" Fill="#598234"
+        Canvas.Left="180" Canvas.Top="180"
+        MouseLeftButtonDown="StartDrag"/>
+    </Canvas>
+
+</Window>

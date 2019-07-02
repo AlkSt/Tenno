@@ -1,0 +1,76 @@
+H:\Уч.Приктика\Tenno\Tenno\bin\Debug\Tenno.exe.config
+H:\Уч.Приктика\Tenno\Tenno\bin\Debug\Tenno.exe
+H:\Уч.Приктика\Tenno\Tenno\bin\Debug\Tenno.pdb
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\MainWindow.g.cs
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\App.g.cs
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno_MarkupCompile.cache
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno_MarkupCompile.lref
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\MainWindow.baml
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.g.resources
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.Properties.Resources.resources
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.csproj.GenerateResource.Cache
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.exe
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.pdb
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Menu.g.cs
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Regularions.g.cs
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Menu.baml
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Regularions.baml
+D:\Уч.Приктика\Tenno\Tenno\bin\Debug\Tenno.exe.config
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.exe
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.pdb
+D:\Уч.Приктика\Tenno\Tenno\bin\Debug\Tenno.exe
+D:\Уч.Приктика\Tenno\Tenno\bin\Debug\Tenno.pdb
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.csprojResolveAssemblyReference.cache
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\MainWindow.g.cs
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Menu.g.cs
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Regularions.g.cs
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\App.g.cs
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno_MarkupCompile.cache
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno_MarkupCompile.lref
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\MainWindow.baml
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Menu.baml
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Regularions.baml
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.g.resources
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.Properties.Resources.resources
+D:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.csproj.GenerateResource.Cache
+H:\Уч.Приктика\Tenno\Tenno\obj\Debug\Tenno.csprojResolveAssemblyReference.cache
+D:\инфа\Tenno\Tenno\bin\Debug\Tenno.exe.config
+D:\инфа\Tenno\Tenno\obj\Debug\Tenno.exe
+D:\инфа\Tenno\Tenno\obj\Debug\Tenno.pdb
+D:\инфа\Tenno\Tenno\bin\Debug\Tenno.exe
+D:\инфа\Tenno\Tenno\bin\Debug\Tenno.pdb
+D:\инфа\Tenno\Tenno\obj\Debug\Tenno.csprojResolveAssemblyReference.cache
+D:\инфа\Tenno\Tenno\obj\Debug\MainWindow.g.cs
+D:\инфа\Tenno\Tenno\obj\Debug\Menu.g.cs
+D:\инфа\Tenno\Tenno\obj\Debug\Regularions.g.cs
+D:\инфа\Tenno\Tenno\obj\Debug\App.g.cs
+D:\инфа\Tenno\Tenno\obj\Debug\Tenno_MarkupCompile.cache
+D:\инфа\Tenno\Tenno\obj\Debug\Tenno_MarkupCompile.lref
+D:\инфа\Tenno\Tenno\obj\Debug\MainWindow.baml
+D:\инфа\Tenno\Tenno\obj\Debug\Menu.baml
+D:\инфа\Tenno\Tenno\obj\Debug\Regularions.baml
+D:\инфа\Tenno\Tenno\obj\Debug\Tenno.g.resources
+D:\инфа\Tenno\Tenno\obj\Debug\Tenno.Properties.Resources.resources
+D:\инфа\Tenno\Tenno\obj\Debug\Tenno.csproj.GenerateResource.Cache
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\bin\Debug\Tenno.exe.config
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\bin\Debug\Tenno.exe
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\bin\Debug\Tenno.pdb
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno.csprojAssemblyReference.cache
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\MainWindow.g.cs
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Menu.g.cs
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Regularions.g.cs
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\App.g.cs
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno_MarkupCompile.cache
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno_MarkupCompile.lref
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\MainWindow.baml
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Menu.baml
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Regularions.baml
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno.g.resources
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno.Properties.Resources.resources
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno.csproj.GenerateResource.cache
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno.csproj.CoreCompileInputs.cache
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno.exe
+E:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno.pdb
+H:\Уч.Приктика\Чатсь 3\Tenno\Tenno\bin\Debug\Tenno.exe.config
+H:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno.exe
+H:\Уч.Приктика\Чатсь 3\Tenno\Tenno\obj\Debug\Tenno.pdb
